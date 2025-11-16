@@ -1,0 +1,13 @@
+The City Library Digital Management System is a Java-based application used to digitize library operations.
+It efficiently manages books, members, and book transactions like issuing and returning.
+The project is built using Object-Oriented Programming concepts such as classes, objects, and encapsulation.
+Java File Handling is used to store library data permanently in text files.
+The system ensures that book and member records remain available even after the program exits.
+It uses a simple, menu-driven interface for easy interaction by the librarian.
+Main classes include Book, Member, and LibraryManager, structured using Java packages for clarity.
+Collections like HashMap and ArrayList allow fast, flexible management of records.
+Book IDs and Member IDs are auto-generated to avoid manual entry errors.
+Users can search books by title, author, or category.
+Sorting functionality allows arranging books alphabetically based on their title.
+The project demonstrates real-world usage of Java I/O, OOP concepts, and collection-based data handling.
+It is suitable for beginners to understand how Java works with files and collections in a practical scenario.
